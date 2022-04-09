@@ -1,1 +1,1 @@
-# python
+Desarrollo del curso Análisis de Datos con Python (300 horas) por freeCodeCamp
